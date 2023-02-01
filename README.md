@@ -3,6 +3,8 @@
 ## DiCOVA 2021 challenge
 https://dicova2021.github.io/
 
+Paper link : https://arxiv.org/abs/2110.06123
+
 <br>
 Perform classifications on MFCC representations of cough sound recordings as COVID19-positive or negative.
 
